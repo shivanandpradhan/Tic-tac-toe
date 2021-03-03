@@ -1,0 +1,13 @@
+# Tic-tac-toe
+A tic-tac-toe game project in c++ where two user can play many times they want to play.
+And the most important part is that at each step, they will be aware about what is their current movement 
+and they can also traverse back in the console to see their existing movement.
+on each turn, a red background portion will show their current movement.
+
+At the end, when one of the user Wins, then both user will also know how one wins and other loss. 
+Actually the Background portion of blue will represent the pattern of winning.
+
+
+What i like most after  making the logic and developing this piece of software and code?
+I love the colors and the way each time it is showing the current user movement and i also like
+the backgrounded-pattern (i.e printed in the end based on the winner) which represents how a person wins the game.
